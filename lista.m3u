@@ -40,17 +40,13 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="CANAIS ABERTOS",TV DIARIO
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 
-################################# CANAIS ABERTOS #################################
-################################# PAY PER VIEW #################################
+############################################################################ Canais | REALITY
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 1
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 1
+https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 2
-http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 3
-http://khtro2.com/live/69754975141604/526502448518/493844.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 2
+https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 
 ################################# PAY PER VIEW #################################
